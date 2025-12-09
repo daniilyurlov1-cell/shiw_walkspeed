@@ -5,6 +5,7 @@ This client-side Lua script for RedM (Cfx.re based) gives players full control o
 
 The script resolves the mismatch between movement speed and stamina depletion, allowing for precise configuration of server RP mechanics. 
 (ONLY RSG CORE BASED)
+
 Feature,Description
 Speed Switching "Players can cycle through multiple preset walk/run speeds (e.g., 0.4, 0.6, 0.8, 1.7, 2.1)."
 Custom Drain (1.7) "At speed 1.7 (Jog), stamina depletion is set to a 1.5 multiplier (half the max drain), simulating moderate exertion."
